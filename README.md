@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola, soy Johan Gomez! 👋
 
-<!--
-**Johan-Gomez09/Johan-Gomez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Certificaciones
+* **Python Essentials 1**
 
-Here are some ideas to get you started:
+### 🚀 Proyectos
+* **PANAROOTS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Habilidades Blandas
+* Resolución de problemas
+* Organización
+* Responsabilidad
+* Liderazgo
+* Superación
+* Resiliencia
+* Trabajo en equipo
