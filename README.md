@@ -1,31 +1,44 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,30&height=220&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BIENVENIDO%20A%20MI%20PERFIL&descSize=15&descAlignY=60" width="100%"/>
-</p>
+# ¡Hola, soy Johan Gómez! 👋
 
-<div align="center">
-
-| 🌐 **Sitio Web** | 📧 **Contacto** |
-| :---: | :---: |
-| [tudominio.github.io](https://johangomez.github.io) | johangomez@email.com |
-
-</div>
+Bienvenido/a a mi perfil de GitHub. Me apasiona conectar la tecnología con el impacto social y el desarrollo de soluciones innovadoras. Actualmente, estoy enfocado en proyectos que conectan a Panamá con el resto del mundo.
 
 ---
 
-## 🙋‍♂️ ¡HOLA, SOY JOHAN GOMEZ!
+## 🚀 Proyectos Destacados
 
-Certified Python Essentials 1 and aspiring Developer, specializing in building impactful projects.
-
-* 💡 **Currently focused on the PANAROOTS project.**
-* 🐍 **Certifications:** Python Essentials 1.
-* 🧠 **Key Soft Skills:** Resolución de problemas, Organización, Responsabilidad, Liderazgo, Superación, Resiliencia, Trabajo en equipo.
+*   **[PanaRoots](https://github.com/tu-usuario/panaroots)**
+    *   **Descripción:** Una plataforma/iniciativa innovadora diseñada para conectar a Panamá con el mundo, resaltando su cultura, oportunidades y talento a escala global.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johangomez&color=brightgreen&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
-</p>
+## 🛠️ Habilidades Técnicas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/owl.svg" width="160" align="right"/>
-</p>
+| Categoría | Herramientas / Tecnologías |
+| :--- | :--- |
+| **Programación** | Python, Lógica de programación |
+| **Control de Versiones** | Git, GitHub |
+| **Diseño y Creatividad** | Canva |
+| **Ofimática y Datos** | Microsoft Excel |
+
+---
+
+## 💡 Habilidades Blandas (Soft Skills)
+
+*   🤝 **Trabajo en equipo:** Colaboración efectiva para alcanzar metas comunes.
+*   👑 **Liderazgo:** Capacidad para guiar proyectos y motivar a otros.
+*   🌱 **Superación y Resiliencia:** Adaptabilidad ante los retos y compromiso con el aprendizaje continuo.
+
+---
+
+## 📜 Certificaciones
+
+*   🐍 **Python Essentials 1** – Cisco Networking Academy / OpenEDG
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+*   💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com)
+*   📧 **Correo electrónico:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+
+⭐️ *¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios.*
